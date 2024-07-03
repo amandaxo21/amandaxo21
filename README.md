@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Presentación propuesta técnica desarrollo código programación fondo oscuro (1)](https://github.com/amandaxo21/amandaxo21/assets/75186589/20fade9d-2312-41b0-b6a7-89badad4db2d)
 
-![Presentación propuesta técnica desarrollo código programación fondo oscuro](https://github.com/amandaxo21/amandaxo21/assets/75186589/a82bf525-81da-4ba1-9760-482c0332d0b0)
+
